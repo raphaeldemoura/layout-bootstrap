@@ -3,7 +3,24 @@
     color: #FFF;
     font-weight: 400;
 }
-.green-btn:hover, .green-btn:focus{
-    background: #387039;
+.green-btn:hover,.green-btn:focus{
+    background: #38853b;
     color: #FFF;
+}
+
+.btn-btn-lg-green-btn{
+    color: #4CAF4F;
+}
+
+.primary-color{
+    color: #4CAF4F;
+    text-decoration: none;
+}
+
+.text-translate{
+    transform: translateY(-70%);
+    background: #FFF;
+    margin: 50px;
+    border-radius: 10px;
+    margin-top: auto;
 }
